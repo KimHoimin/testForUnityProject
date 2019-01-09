@@ -11,5 +11,6 @@ public class Changevalue : MonoBehaviour {
 
         Debug.Log("sdfkjsdflkj");
         Debug.Log("qnwkwlahtgodktndek");
+        Debug.Log("testtest");
     }
 }
