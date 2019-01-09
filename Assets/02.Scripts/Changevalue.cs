@@ -10,6 +10,8 @@ public class Changevalue : MonoBehaviour {
             lbl.text = Mathf.RoundToInt(value * 10)+"%";
 
         Debug.Log("qnwkwlahtgodktndek");
+        Debug.Log("sdfkjsdflkj");
+
     }
 
 }
